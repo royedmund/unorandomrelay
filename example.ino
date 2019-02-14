@@ -1,5 +1,3 @@
-# unorandomrelay
-
  
 /*
  * Arduino code to control 16 channel relay with Arduino UNO
