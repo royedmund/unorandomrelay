@@ -7,7 +7,7 @@
  * Written by Ahmad Shamshiri for Robojax.com on Sunday Oct 08, 2018 
  * at 10:35 in Ajax, Ontario, Canada
  * Watch video instruction for this code: https://youtu.be/Q9aBI4ELKC4
- * Modified by REA Electric 14 Feb 2-19
+ * Modified by REA Electric 14 Feb 2019 NSW, AUstralia
  * Simple Random Relay selection
  * See Example https://youtu.be/P9LIQ3Znmek
  * 
