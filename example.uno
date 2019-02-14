@@ -59,7 +59,7 @@ void loop() {
 
   randLEDNo =random(0,3);
   
-azchannelControl(randLEDNo,1, random(100,250)); // turn relay ON 
+  channelControl(randLEDNo,1, random(100,250)); // turn relay ON 
 
 // channelControl(randLEDNo,1, 100); // turn relay ON 
  //  delay(5000);// wait for loopDelay ms
